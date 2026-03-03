@@ -1,0 +1,68 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter-section1",
+            "cwd": "flutter-section1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-section1 (profile mode)",
+            "cwd": "flutter-section1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-section1 (release mode)",
+            "cwd": "flutter-section1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter-start",
+            "cwd": "flutter-start",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-start (profile mode)",
+            "cwd": "flutter-start",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-start (release mode)",
+            "cwd": "flutter-start",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "instagram",
+            "cwd": "instagram",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "instagram (profile mode)",
+            "cwd": "instagram",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "instagram (release mode)",
+            "cwd": "instagram",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
